@@ -1,0 +1,5 @@
+{
+  "name": "GovFinTech E-Governance Portal",
+  "description": "A scalable, secure, and user-centric Fintech-Enabled E-Governance Portal for citizens and administrators.",
+  "requestFramePermissions": ["microphone"]
+}
